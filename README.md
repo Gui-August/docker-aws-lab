@@ -2,16 +2,6 @@
 
 
 
-!\[AWS](https://img.shields.io/badge/AWS-ECR%20%7C%20EC2-orange)
-
-!\[Docker](https://img.shields.io/badge/Docker-Container-blue)
-
-!\[Status](https://img.shields.io/badge/Status-Running-success)
-
-!\[License](https://img.shields.io/badge/License-MIT-green)
-
-
-
 \---
 
 
