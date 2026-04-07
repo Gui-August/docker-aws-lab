@@ -38,33 +38,21 @@ A aplicação é simples, porém o foco está na \*\*infraestrutura e no process
 
 \[ Local Machine ]
 
-&#x20;      │
 
-&#x20;      ▼
 
 \[ Docker Build ]
 
-&#x20;      │
 
-&#x20;      ▼
 
 \[ AWS ECR (Registry) ]
 
-&#x20;      │
 
-&#x20;      ▼
 
 \[ EC2 Instance ]
 
-&#x20;      │
-
-&#x20;      ▼
 
 \[ Container Nginx rodando aplicação ]
 
-&#x20;      │
-
-&#x20;      ▼
 
 \[ Acesso via Browser ]
 
